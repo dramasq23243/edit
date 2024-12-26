@@ -73,6 +73,8 @@
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime
 * [AZMovies](https://azm.to/) - Movies
 * [Cinebook](https://www.cinebook.xyz/) - Movies / TV / Anime
+* [ShowPm](https://showpm.com.in/) - Movies / TV /
+* [isaimini](https://www.isaimini.city/) - Movies / TV / Anime
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [MultiMovies](https://multimovies.lat/) - Movies / TV
 * [SkyMovies](https://skymovieshd.moe/category/Hollywood-English-Movies.html) - Movies / TV / Anime / Some NSFW
